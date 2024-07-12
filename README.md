@@ -1,4 +1,4 @@
-# Trabajo Práctico Número 4
+# Proyecto Final de dipolomado en Analisis de datos con Inteligencia Artificial
 
 ## Uso del repositorio
 

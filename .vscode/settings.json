@@ -3,8 +3,14 @@
         "source.fixAll": "explicit"
     },
     "editor.formatOnSave": true,
-    "[c]": {
-        "editor.defaultFormatter": "xaver.clang-format",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.wordBasedSuggestions": "off",
+        "editor.suggest.insertMode": "replace",
+        "editor.semanticHighlighting.enabled": true
+    },
+    "[notebook]": {
+        "editor.defaultFormatter": "ms-python.python",
         "editor.wordBasedSuggestions": "off",
         "editor.suggest.insertMode": "replace",
         "editor.semanticHighlighting.enabled": true
